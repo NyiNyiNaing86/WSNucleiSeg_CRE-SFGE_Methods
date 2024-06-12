@@ -1,4 +1,4 @@
-# WS_nuclei-segmentation_using_CRE&Sure-fg_methods
+# Weakly Supervised Approach with Color and Sure-Foreground Extraction
 Efficient Nuclei Semantic Segmentation in Histopathology Images: A Weakly Supervised Approach with Color and Sure-Foreground Extraction
 
 Abstract
