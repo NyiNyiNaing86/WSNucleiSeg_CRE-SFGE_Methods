@@ -20,3 +20,4 @@ We used the Weakly supervised nuclei segmentation with point annotation masks. I
 We used the CPM and CoNSeP datasets to evaluate our method.
 We used the four evaluation metrics: IoU, F1 score, Dice_obj and AJI.
 The implemented code will be uploaded.
+![fig1](https://github.com/NyiNyiNaing86/WSNucleiSeg_CRE-SFGE_Methods/assets/74303730/b4a19e55-90e1-425e-956c-9739da54efd0)
