@@ -21,9 +21,12 @@ We used the CPM and CoNSeP datasets to evaluate our method.
 We used the four evaluation metrics: IoU, F1 score, Dice_obj and AJI.
 The implemented code will be uploaded.
 
-Dependencies
+Dependencies:
+
 Python 3.6.13
+
 Tensorflow 2.12.0
+
 Keras 2.2.6
 
 
